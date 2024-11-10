@@ -1,17 +1,17 @@
 [
     {
-        "latitude": 8.359735,
-        "longitude": 124.869206,
-        "message": "CCS Faculty Office"
+        "latitude": 8.114920,
+        "longitude": 125.136407,
+        "message": "Abbey of the Transfiguration"
     },
     {
-        "latitude": 8.359639,
-        "longitude": 124.869179,
-        "message": "CCS Laboratory 1"
+        "latitude": 8.104117,
+        "longitude": 125.133753,
+        "message": "Monastery Mater Ecclesiae"
     },
     {
-        "latitude": 8.359554,
-        "longitude": 124.869153,
-        "message": "CCS Laboratory 2"
+        "latitude": 7.870481,
+        "longitude": 125.068606,
+        "message": "Musuan Peak"
     }
 ]

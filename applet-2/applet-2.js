@@ -32,9 +32,10 @@ class LeafletMap {
 const myMap = new LeafletMap('map', [8.360004, 124.868419], 18);
 
 /*
-myMap.addMarker(8.359735, 124.869206, 'CCS Faculty Office');
-myMap.addMarker(8.359639,124.869179, 'CCS Laboratory 1');
-myMap.addMarker(8.359554,124.869153, 'CCS Laboratory 2');
+myMap.addMarker(8.114920, 125.136407, 'Abbey of the Transfiguration');
+myMap.addMarker(8.104117, 125.133753, 'Monastery Mater Ecclesiae');
+myMap.addMarker(7.870481, 125.068606, 'Musuan Peak');
 */
+
 
 myMap.loadMarkersFromJson('applet-2.json');
